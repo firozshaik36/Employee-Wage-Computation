@@ -9,11 +9,9 @@ public class EmployeeWageComputation {
         if (empType == FULL_TIME)
     {
         System.out.println("Employee is Present");
-
     } else
     {
         System.out.println("Employee is Absent");
-
     }
 }
 }
